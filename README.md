@@ -1,7 +1,7 @@
 # Database and Python Codes for optimal IM identification based on Bayesian optimization
 
 All the data and code you need to run the program are stored in the zip **"code share"**.<br>
-After downloading the zip "code share", unzip the file and **run the ".py" in the zip file** instead of the '.py' out of the zip file.<br>
+After downloading the zip "code share", unzip the file and **run the ".py" in the zip file** .<br>
   
 Pure Python implementation of bayesian global optimization with gaussian processes.<br>
 * PyPI (pip):  
